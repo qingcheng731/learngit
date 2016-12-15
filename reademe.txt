@@ -6,3 +6,6 @@ Creating a new branch quick
 excuse me?
 1212312312
 create a new branch is quick & simple
+
+creating a new branch is quick AND simple.
+
